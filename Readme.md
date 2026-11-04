@@ -43,6 +43,9 @@ Ensure you have Python installed on your system along with pip.
 ### Installation
 
 1. Clone or download this repository to your local machine.
+```
+git clone https://github.com/Fathir-Afatar/-Script-Excel-File-Generators.git
+```
 2. Create Virtual Enviroment (recomended)
 ```
 python -m venv venv
