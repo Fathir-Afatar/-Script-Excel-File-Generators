@@ -5,6 +5,8 @@
 [![Pandas](https://img.shields.io/badge/pandas-3.1.0-darkgreen.svg)](https://pandas.pydata.org/)
 [![OpenPyXL](https://img.shields.io/badge/openpyxl-3.1.5-brightgreen.svg)](https://openpyxl.readthedocs.io/)
 
+> Created by: Fathir Afatar
+
 A lightweight, purely script-based utility designed to automatically generate structured mock Excel datasets mimicking real-world transaction structures. Perfect for testing reconciliation tools, data pipelines, or bulk processing scripts without risking sensitive data or compliance breaches.
 
 ---
